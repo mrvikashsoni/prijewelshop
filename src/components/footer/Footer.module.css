@@ -1,0 +1,47 @@
+/* -----------------------------------------------------------------------Footer */
+.foot_container1 {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: var(--bg_dark_sec);
+  padding: 3% 0%;
+  /* border: 1px solid black; */
+}
+.foot1 ul {
+  gap: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.foot1 ul a {
+  font-size: 12px;
+  text-decoration: none;
+}
+
+.foot_container2 hr {
+  width: 50%;
+  margin: auto;
+}
+.foot_container3 {
+  display: flex;
+  padding: 1% 0%;
+  gap: 1%;
+  justify-content: center;
+  align-items: center;
+  background-color: #282834;
+}
+.foot_3 {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+}
+.foot_3p1 {
+  color: #feba19;
+}
+
+ul {
+  list-style-type: none;
+}
+.nav_link {
+  color: white;
+}
+/* ---------------------------------------------------------------------------Home Page End */

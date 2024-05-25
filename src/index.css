@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+}
+
+:root {
+  --bg_dark_blue: #252b42;
+  --bg_dark_sec: #282834;
+  --secondary_txt_color: #737373;
+}

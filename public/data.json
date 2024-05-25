@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "title": "Earring-D1",
+    "price": 100,
+    "category": "Earring",
+    "img": "https://i.ibb.co/CH0Tkxz/616-Mu-NKj-QIL-SX625.png",
+    "href": "https://amzn.to/4a5tHa5"
+  },
+  {
+    "id": 2,
+    "title": "Earring-D2",
+    "price": 100,
+    "category": "Earring",
+    "img": "https://i.ibb.co/gyM8xyg/d2.png",
+    "href": "https://amzn.to/4dspu2Z"
+  },
+  {
+    "id": 3,
+    "title": "Earring-D3",
+    "price": 100,
+    "category": "Earring",
+    "img": "https://i.ibb.co/4FLLMmD/d3.png",
+    "href": "https://amzn.to/44va35W"
+  },
+  {
+    "id": 4,
+    "title": "Earring-D4",
+    "price": 95,
+    "category": "Earring",
+    "img": "https://i.ibb.co/PG58BG6/d4.png",
+    "href": "https://amzn.to/3WxxZUq"
+  },
+  {
+    "id": 5,
+    "title": "Earring-D5",
+    "price": 150,
+    "category": "Earring",
+    "img": "https://i.ibb.co/F7PG2hD/d5.png",
+    "href": "https://amzn.to/3USZzdK"
+  },
+  {
+    "id": 6,
+    "title": "Tikka-D1",
+    "price": 100,
+    "category": "Tikka",
+    "img": "https://i.ibb.co/PZjhYPD/6adfc367-44ee-4be6-9d0f-cff6571e44a5-Copy.png",
+    "href": "https://amzn.to/3UA6dnK"
+  },
+  {
+    "id": 7,
+    "title": "Tikka-D2",
+    "price": 95,
+    "category": "Tikka",
+    "img": "https://i.ibb.co/2KK0ydf/28b14d8a-8521-4731-951e-cc0140d6408c-Copy.png",
+    "href": "https://amzn.to/4bs63pf"
+  },
+  {
+    "id": 8,
+    "title": "Tikka-D3",
+    "price": 126,
+    "category": "Tikka",
+    "img": "https://i.ibb.co/kBb1KD9/Main.jpg",
+    "href": "https://amzn.to/3JPScgv"
+  },
+  {
+    "id": 9,
+    "title": "Tikka-D4",
+    "price": 130,
+    "category": "Tikka",
+    "img": "https://i.ibb.co/vDcwbx6/Main.jpg",
+    "href": "https://amzn.to/3UMH7mK"
+  },
+  {
+    "id": 10,
+    "title": "Tikka-D5",
+    "price": 100,
+    "category": "Tikka",
+    "img": "https://i.ibb.co/kBMc3KV/IMG-20240216-205217-Copy.png",
+    "href": "https://amzn.to/3UQWdYk"
+  },
+  {
+    "id": 11,
+    "title": "Bracelet-D1",
+    "price": 180,
+    "category": "Bracelet",
+    "img": "https://i.ibb.co/4P4nZNV/Main.jpg",
+    "href": "https://amzn.to/4b7iarV"
+  },
+  {
+    "id": 12,
+    "title": "Bracelet-D2",
+    "price": 150,
+    "category": "Bracelet",
+    "img": "https://i.ibb.co/mrWnDS0/Main.jpg",
+    "href": "https://amzn.to/3JNqZv8"
+  },
+  {
+    "id": 13,
+    "title": "Bracelet-D3",
+    "price": 100,
+    "category": "Bracelet",
+    "img": "https://i.ibb.co/x7TRD2k/IMG-20240402-122843.jpg",
+    "href": "https://amzn.to/4dsXpIX"
+  },
+  {
+    "id": 14,
+    "title": "Bracelet-D4",
+    "price": 105,
+    "category": "Bracelet",
+    "img": "https://i.ibb.co/g9wBj4V/2.jpg",
+    "href": "https://amzn.to/3JW5rfC"
+  },
+  {
+    "id": 15,
+    "title": "Bracelet-D5",
+    "price": 105,
+    "category": "Bracelet",
+    "img": "https://i.ibb.co/g9wBj4V/2.jpg",
+    "href": "https://amzn.to/3JW5rfC"
+  },
+  {
+    "id": 16,
+    "title": "Nose_Pin-D1",
+    "price": 100,
+    "category": "Nose-Pin",
+    "img": "https://i.ibb.co/L1cww2q/main.jpg",
+    "href": "https://amzn.to/4a9WcTS"
+  },
+  {
+    "id": 17,
+    "title": "Nose_Pin-D2",
+    "price": 100,
+    "category": "Nose-Pin",
+    "img": "https://i.ibb.co/NmHwXQV/2.jpg",
+    "href": "https://amzn.to/3wwNtNK"
+  },
+  {
+    "id": 18,
+    "title": "Nose_Pin-D3",
+    "price": 120,
+    "category": "Nose-Pin",
+    "img": "https://i.ibb.co/TW6JNcW/1.png",
+    "href": "https://amzn.to/3Qx7BWU"
+  },
+  {
+    "id": 19,
+    "title": "Nose_Pin-D4",
+    "price": 95,
+    "category": "Nose-Pin",
+    "img": "https://i.ibb.co/nQ1SfML/2.jpg",
+    "href": "https://amzn.to/44NRla9"
+  },
+  {
+    "id": 20,
+    "title": "Nose_Pin-D5",
+    "price": 100,
+    "category": "Nose-Pin",
+    "img": "https://i.ibb.co/XxhzHv0/2.jpg",
+    "href": "https://amzn.to/4a4Faqg"
+  },
+  {
+    "id": 21,
+    "title": "combo-D1",
+    "price": 165,
+    "category": "Flower combo set",
+    "img": "https://i.ibb.co/bBbGChK/main.png",
+    "href": "https://amzn.to/4baCysq"
+  },
+  {
+    "id": 22,
+    "title": "combo-v2",
+    "price": 265,
+    "category": "Flower combo set",
+    "img": "https://i.ibb.co/C9J3bg5/Main.png",
+    "href": "https://amzn.to/3UvzShN"
+  },
+  {
+    "id": 23,
+    "title": "Earring-D6",
+    "price": 95,
+    "category": "Earring",
+    "img": "https://i.ibb.co/xfnNwB9/file.png",
+    "href": "https://amzn.to/44O4pMJ"
+  }
+]
